@@ -63,7 +63,7 @@ npm run dev
 ## 🌍 Canlı Yayın
 
 Netlify Deploy Linki:
-
+[mini-stock-tracker.netlify.app](https://mini-stock-tracker.netlify.app)
 ---
 
 ## 🧩 Proje Yapısı
